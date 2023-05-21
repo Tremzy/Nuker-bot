@@ -73,4 +73,4 @@ async def removeroles():
     roles = guild.roles
     for role in roles:
         await role.delete()
-bot.run("MTEwNTUxMDI0MDg5Nzc0OTE4Mg.Gk1_z8.X_SP4sGZ1-tmqbLfYbSFFBfZTrMHAVx5jXOXms")
+bot.run("You token here")
